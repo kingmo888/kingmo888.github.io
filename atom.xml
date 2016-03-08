@@ -107,11 +107,11 @@
       <category term="Python" scheme="http://lizenghai.com/categories/Python/"/>
     
     
+      <category term="Python" scheme="http://lizenghai.com/tags/Python/"/>
+    
       <category term="爬虫" scheme="http://lizenghai.com/tags/%E7%88%AC%E8%99%AB/"/>
     
       <category term="学习计划" scheme="http://lizenghai.com/tags/%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92/"/>
-    
-      <category term="Python" scheme="http://lizenghai.com/tags/Python/"/>
     
   </entry>
   
@@ -190,11 +190,11 @@
       <category term="Python" scheme="http://lizenghai.com/categories/Python/"/>
     
     
-      <category term="python" scheme="http://lizenghai.com/tags/python/"/>
-    
       <category term="爬虫" scheme="http://lizenghai.com/tags/%E7%88%AC%E8%99%AB/"/>
     
       <category term="学习计划" scheme="http://lizenghai.com/tags/%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92/"/>
+    
+      <category term="python" scheme="http://lizenghai.com/tags/python/"/>
     
       <category term="beautifulsoup4" scheme="http://lizenghai.com/tags/beautifulsoup4/"/>
     
